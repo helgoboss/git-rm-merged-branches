@@ -1,0 +1,17 @@
+{
+  "name": "git-rm-merged-branches",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "git-rm-merged-branches": "./git-rm-merged-branches.js",
+    "git-rm-merged-branches-in-subdirs": "./git-rm-merged-branches-in-subdirs.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.8.1"
+  }
+}
